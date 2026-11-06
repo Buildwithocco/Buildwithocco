@@ -1,44 +1,45 @@
-# Hi, I'm ABDULRAHMON KALEJAYE OLALEKAN  👋
-### WordPress Website Developer | Elementor Specialist | Digital Solutions
+# Hi, I'm Build With OCCO 👋
 
-I build professional, responsive and conversion-focused websites that help businesses establish their online presence, showcase their services and turn visitors into customers.
+### WordPress Website Developer | Elementor | Digital Solutions
 
-I also have a background in Project Management, with an interest in planning, organising and delivering projects effectively.
+I design and build professional websites that help businesses establish their online presence, showcase their services and connect with their customers.
 
-### 💻 What I Do
+I also have a background in Project Management, bringing planning, organisation and coordination skills into my digital projects.
 
-- 🌐 WordPress Website Design & Development
-- 🧩 Elementor Website Building & Customisation
-- 🎯 Landing Page Design
-- 📊 Sales Funnel Design
-- 🛒 E-commerce Website Development
-- 🎨 Canva & AI-Assisted Graphic Design
-- 📋 Project Planning & Management
+## 💻 What I Do
 
-### 🛠️ Tools & Technologies
+- WordPress Website Design & Development
+- Elementor Website Building & Customisation
+- Landing Page Design
+- Sales Funnel Design
+- E-commerce Website Development
+- Canva & AI-Assisted Design
+- Project Planning & Coordination
+
+## 🛠️ Tools & Technologies
 
 - WordPress
 - Elementor
 - WooCommerce
 - Canva
-- AI Design Tools
+- AI-powered creative tools
 
-### 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
-- Building and documenting WordPress website projects.
-- Improving my Elementor and website development skills.
-- Exploring conversion-focused landing pages and sales funnels.
+- Building and documenting website projects.
+- Improving my Elementor and WordPress development skills.
+- Exploring landing pages and sales funnels.
 - Developing practical digital solutions for businesses.
-- Growing my professional portfolio through real-world projects.
+- Growing my professional portfolio.
 
-### 📂 Explore My Work
+## 📁 My Projects
 
-I'm using GitHub to document my projects, practical experiments, learning experiences and development journey.
+This GitHub profile documents my projects, practical experiments, learning notes and development journey.
 
-### 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abdulrahmon-kalejaye-32900b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Portfolio: Your Portfolio URL
-- Email: holarlekand@gmail.com
+- **Portfolio:** https://buildwithocco.name.ng
+- **LinkedIn:** https://www.linkedin.com/in/abdulrahmon-kalejaye-32900b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- **Email:** holarlekand@gmail.com
 
-**Build. Document. Deliver.**
+### Build. Document. Deliver.
